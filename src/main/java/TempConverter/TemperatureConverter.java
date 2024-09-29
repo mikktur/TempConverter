@@ -1,4 +1,4 @@
-package org.example;
+package TempConverter;
 
 public class TemperatureConverter {
     /**
